@@ -1,5 +1,5 @@
 # resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante a aula de laboratório no lab da DIO.
+Este repositório contém o resumo das lições aprendidas durante a aula de laboratório da DIO.
 
 ---
 
